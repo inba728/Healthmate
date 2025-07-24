@@ -33,7 +33,7 @@
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/HealthMate.git
+git clone https://github.com/inba728/HealthMate.git
 cd HealthMate
 
 

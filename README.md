@@ -34,23 +34,31 @@
 
 ### 1. Clone the Repository
 git clone https://github.com/inba728/HealthMate.git
+
 cd HealthMate
 
 
 ### 2. Create Virtual Environment and Install Dependencies
 python -m venv venv
+
 venv\Scripts\activate  # On Windows
+
 pip install -r requirements.txt
 
 
 ### 3. Set Up MySQL Database
+
 Create a MySQL database (e.g. healthmate)
+
 Import schema.sql if available
+
 Update app.py with your DB credentials
 
 
 ### 4. Run the Flask App
+
 python app.py
+
 Visit http://localhost:5001 in your browser.
 
 ## 📬 Contact
